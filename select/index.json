@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "君がいるだけで - From THE FIRST TAKE",
+  "base_artist": "Kome Kome Club",
+  "createdAt": "2026-03-02T10:12:38.941723Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君がいるだけで",
+      "artist": "kome kome club",
+      "has_synced": true,
+      "path": "select/01_君がいるだけで_kome_kome_club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君がいるだけで",
+      "artist": "Kome Kome Club",
+      "has_synced": true,
+      "path": "select/02_君がいるだけで_Kome_Kome_Club.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君がいるだけで",
+      "artist": "Hitomi Shimatani",
+      "has_synced": false,
+      "path": "select/03_君がいるだけで_Hitomi_Shimatani.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君がいるだけで",
+      "artist": "米米クラブ",
+      "has_synced": true,
+      "path": "select/04_君がいるだけで_米米クラブ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君がいるだけで",
+      "artist": "米米CLUB",
+      "has_synced": false,
+      "path": "select/pl_01_君がいるだけで_米米CLUB.txt"
+    }
+  ]
+}
